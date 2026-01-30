@@ -36,6 +36,5 @@ make deployMood   # Deploy MoodNft
 make mintMood     # Mint an NFT
 make flipMood     # Flip NFT mood
 make format       # Format code
-
 License 📄
 MIT
